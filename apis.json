@@ -1,0 +1,22 @@
+[
+  "https://2factor.in/API/V1/API_KEY/SMS/PHONE/AUTOGEN",
+  "https://www.fast2sms.com/dev/bulkV2?authorization=API_KEY&route=otp&variables_values=1234&numbers=PHONE",
+  "https://control.msg91.com/api/sendhttp.php?authkey=API_KEY&mobiles=PHONE&message=Your%20OTP%20is%201234&sender=SENDERID&route=4&country=91",
+  "https://api.textlocal.in/send/?apikey=API_KEY&numbers=PHONE&message=Your%20OTP%20is%201234",
+  "https://cdn-api.co-vin.in/api/v2/auth/public/generateOTP?mobile=PHONE",
+  "https://api.kaleyra.io/v1/HXINXXXXX/verify?mobile_number=PHONE",
+  "https://prod-api.phonepe.com/v1/user/otp/send?mobile=PHONE",
+  "https://prod-api.meesho.com/send-otp?phone=PHONE",
+  "https://www.oyorooms.com/api/pwa/v1/sendOTP?phone=PHONE",
+  "https://api.faasos.io/login/send-otp?phone=PHONE",
+  "https://www.zee5.com/api/sendOtp?phone=PHONE",
+  "https://api.zee.com/v1/auth/otp?mobile=PHONE",
+  "https://api.cure.fit/login/otp?mobile=PHONE",
+  "https://api.sugarcosmetics.com/api/auth/sendOtp?mobile=PHONE",
+  "https://api.flipkart.com/api/sendotp?mobile=PHONE",
+  "https://www.blinkit.com/v1/api/sendotp?mobile=PHONE",
+  "https://api.tatadigital.com/otp/send?mobile=PHONE",
+  "https://api.ajio.com/v1/sendotp?mobile=PHONE",
+  "https://api.mobikwik.com/otp?cell=PHONE",
+  "https://api.nobroker.in/v1/sendOtp?phone=PHONE"
+]
